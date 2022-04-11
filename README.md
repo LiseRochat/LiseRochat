@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Me is Lise, web developer in training.
+# Me is Lise, Web Developer in training
 
 - 🔭 I’m currently working on **Prestashop** and more specially on **module creation** to Honda Performances company [Honda Performances](https://hondaperformances.com "Honda Performances") 
 - 🌱 I’m currently learning in my free time : on a tool to help amaps (association for the maintenance of peasant agriculture) to create their website in partnership with [Amap AURA](https://amap-aura.org/ "Amap AURA") and [@julieprunaret](https://www.github.com/julieprunaret "Julie Prunaret")
