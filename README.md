@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Me is Lise Rochat, web developer in training.
+Me is Lise, web developer in training.
 
 - 🔭 I’m currently working on **prestashop** and more specially on **module creation**. 
 - 🌱 I’m currently learning in my free time : on a tool to help amaps (association for the maintenance of peasant agriculture) to create their website in partnership with [Amap AURA](https://amap-aura.org/) and [@julieprunaret](https://www.github.com/julieprunaret)
