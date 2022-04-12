@@ -23,7 +23,6 @@
 ![wordpress-icon](https://github.com/vorillaz/devicons/blob/master/!PNG/wordpress.png "Wordpress")
 ![w3c-icon](https://github.com/vorillaz/devicons/blob/master/!PNG/w3c.png "W3C")
 
-### My Portfolio
-[liserochat](https://liserochat.com "PortFolio Lise Rochat")
+
 
 
