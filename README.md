@@ -3,9 +3,8 @@
 
 # My name is Lise, I'm Web Developer in training
 
-- 🔭 I’m currently working on **Prestashop** and more specifically on **module creation** to [Honda Performances](https://hondaperformances.com "Honda Performances") company in partnership with Web Force 3 school
+- 🔭 I’m currently working on **IPmétrix**  to [TKM Innovation](https://tkminnovation.io "TKM Innovation") company in partnership with Web Force 3 school
 - 🌱 I’m actually learning in my free time : on a tool to help AMAPs (Association for the Maintenance of Peasant Agriculture) to create their website in partnership with [Amap AURA](https://amap-aura.org/ "Amap AURA") and [@julieprunaret](https://www.github.com/julieprunaret "Julie Prunaret")
-- 👯 I am looking for a company in order to obtain a work-study contract for the beginning of the school year 2022 in September at bac + 3 level
 - 🚀 Contact Me : [linkedin](https://www.linkedin.com/in/lise-rochat-484538111/ "Linkedin Rochat Lise")
 
 ### My Skills and Tools
