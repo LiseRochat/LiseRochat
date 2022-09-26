@@ -3,7 +3,7 @@
 
 # My name is Lise, I'm Web Developer in training
 
-- 🔭 I’m currently working on **IPmétrix**  to [TKM Innovation](https://tkminnovation.io "TKM Innovation") company in partnership with Web Force 3 school
+- 🔭 I’m currently working on **IPmétrix**  to [TKM Innovation](https://tkminnovation.io "TKM Innovation") company in partnership with Renne1 University
 - 🌱 I’m actually learning in my free time : on a tool to help AMAPs (Association for the Maintenance of Peasant Agriculture) to create their website in partnership with [Amap AURA](https://amap-aura.org/ "Amap AURA") and [@julieprunaret](https://www.github.com/julieprunaret "Julie Prunaret")
 - 🚀 Contact Me : [linkedin](https://www.linkedin.com/in/lise-rochat-484538111/ "Linkedin Rochat Lise")
 
